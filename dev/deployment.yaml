@@ -16,4 +16,4 @@ spec:
       - name: nginx
         image: mahadevaswamyn740/pythonapp:latest
         ports:
-        - containerPort: 80
+        - containerPort: 5000
